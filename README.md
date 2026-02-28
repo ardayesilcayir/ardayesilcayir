@@ -21,7 +21,6 @@ Here is a list of technologies and tools that I frequently work with.
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -34,6 +33,6 @@ Here is a list of technologies and tools that I frequently work with.
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [linkedin.com/in/[yourusername]](https://linkedin.com/in/[yourusername])
-- **Email:** [ardayesilcayir7@gmail.com](mailto:your.email@email.com)
+- **LinkedIn:** [https://www.linkedin.com/in/arda-ye%C5%9Fil%C3%A7ay%C4%B1r-a614b42a5/]
+- **Email:** [ardayesilcayir7@gmail.com](mailto:ardayesilcayir7@gmail.com)
 
