@@ -33,6 +33,6 @@ Here is a list of technologies and tools that I frequently work with.
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/arda-ye%C5%9Fil%C3%A7ay%C4%B1r-a614b42a5/]
+- **LinkedIn:** https://www.linkedin.com/in/arda-ye%C5%9Fil%C3%A7ay%C4%B1r-a614b42a5/
 - **Email:** [ardayesilcayir7@gmail.com](mailto:ardayesilcayir7@gmail.com)
 
